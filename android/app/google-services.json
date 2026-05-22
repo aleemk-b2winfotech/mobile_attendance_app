@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259052880333",
+    "project_id": "b2w-attedance",
+    "storage_bucket": "b2w-attedance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259052880333:android:5a49aa7d1281c7e01e0484",
+        "android_client_info": {
+          "package_name": "ai.b2winfotech.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjwJ-kxiVzOPzn4n8iTRY_uXzlZYdI2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259052880333:android:d83593dbe6159c9e1e0484",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjwJ-kxiVzOPzn4n8iTRY_uXzlZYdI2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
